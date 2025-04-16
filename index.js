@@ -72,10 +72,10 @@ document.getElementById("counter").innerText=5;
 let countEl=document.getElementById("counter");
 console.log(countEl);
 
-let count3=0;
+let count33=0;
 function increment(){
-    count3++;
-    countEl.innerText=count3;
+    count33++;
+    countEl.innerText=count33;
     console.log("clicked",+countEl);
     
 }
